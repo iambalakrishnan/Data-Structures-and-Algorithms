@@ -9,3 +9,11 @@ def reverseTwo(string):
     for i in string:
         str = i + str
     return str
+
+
+input_string = input("Enter a string: ")
+string = reverse(input_string)
+print(string)
+
+str = reverseTwo(input_string)
+print(str)
