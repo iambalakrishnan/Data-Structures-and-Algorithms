@@ -7,7 +7,7 @@ head = {
                             "next": {
                                         "Value":7,
                                         "next": {
-                                                    "Value":4,
+                                                    "Value":4, # tail
                                                     "next":None
                                         }
                             }
